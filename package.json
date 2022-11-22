@@ -8,10 +8,10 @@
     "start": "next start"
   },
   "dependencies": {
-    "@mdx-js/loader": "^1.6.6",
+    "@mdx-js/loader": "^2.1.5",
     "@next/mdx": "^9.4.4",
     "gatsby-plugin-mdx": "^1.2.19",
-    "next": "9.4.4",
+    "next": "13.0.4",
     "prism-react-renderer": "^1.1.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",
